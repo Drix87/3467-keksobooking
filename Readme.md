@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Кирилл Бондарь](https://up.htmlacademy.ru/javascript/10/user/3467).
-* Наставник: `Неизвестно`.
+* Наставник: `Нету`.
 
 ---
 
